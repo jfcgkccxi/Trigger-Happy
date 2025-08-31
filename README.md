@@ -9,7 +9,7 @@ Current Jokers:
 - **+4** (Common): -1 Discard. +4 Hand Size on Final Hand.
 - **Ace in The Hole** (Uncommon): Scored Aces gain a permanent X0.1 (Up to 10 times)
 - **AK-47** (Uncommon): Retriggers scored 4's and 7's 3 times, destroying them.
-- **All for One **(Common): Scored Aces increase retriggers for the next High Card.
+- **All for One** (Common): Scored Aces increase retriggers for the next High Card.
 - **Badass Skeleton** (Rare): Creates one Death Tarot card when destroying cards.
 - **Balrog** (Uncommon): Gains +4 Mult per Stone card scored. Resets upon selecting Small Blind.
 - **Beowulf** (Uncommon): Every 8th 10 scores X8
